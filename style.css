@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Anton& family=Poppins:wght@400;500;600;700; 800&display=swap');
+
+
+.font-poppins{
+    font-family: 'Poppins', sans-serif
+}
+.font-anton{
+    font-family: 'Anton', sans-serif;
+}
+.hello_bg{
+    background-image: linear-gradient(121deg, rgba(255, 255, 255, 0.56) 0%, rgba(152, 151, 151, 0.00) 102.2%);
+}
